@@ -1,6 +1,6 @@
 package Demo;
 
-public class Maven {
+public class Maven2 {
 
 	public static void main(String[] args) {
 	
